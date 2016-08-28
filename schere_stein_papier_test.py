@@ -3,8 +3,7 @@ import schere_stein_papier
 
 class SchereSteinPapierTest(unittest.TestCase):
 
-    #def test_upper(self):
-    #    self.assertEqual(schere_stein_papier.zufallSSP(), 0.4)
+
 
     def test_vergleich(self):
         actual = schere_stein_papier.gewonnenOderNicht('schere', 'schere')

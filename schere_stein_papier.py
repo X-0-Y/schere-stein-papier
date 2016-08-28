@@ -63,4 +63,4 @@ def spiel():
       print("Du mußt schere oder stein oder papier eingeben!")
 
 
-#spiel()
+spiel()
